@@ -1,0 +1,27 @@
+{
+  "name": "evidence-management-system",
+  "version": "1.0.0",
+  "description": "Blockchain Evidence Management System",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niyati1206/EvidenceManagementSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niyati1206/EvidenceManagementSystem/issues"
+  },
+  "homepage": "https://github.com/Niyati1206/EvidenceManagementSystem#readme",
+  "devDependencies": {
+    "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^17.2.3"
+  }
+}
